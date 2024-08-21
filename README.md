@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Nome: Dev. Jhonzin<br>🛠️ Experiência: Desenvolvedor web frontend júnior com foco na criação de interfaces modernas e funcionais.<br>🌐 Habilidades: Expertise em HTML, CSS, e JavaScript, com um forte interesse em melhorar continuamente minhas habilidades e aprender novas tecnologias.<br>🎨 Design Orientado ao Usuário: Comprometido em criar experiências de usuário intuitivas e visualmente atraentes.<br>🚀 Objetivo: Busco aprimorar minhas habilidades como desenvolvedor frontend, contribuindo para projetos que façam a diferença na vida das pessoas.
+👨‍💻 Nome: Dev. Jhonzin<br>🛠️ Experiência: Desenvolvedor web frontend júnior com foco na criação de interfaces modernas e funcionais.<br>🌐 Habilidades: HTML, CSS, e JavaScript, com um forte interesse em melhorar continuamente minhas habilidades e aprender novas tecnologias.<br>🎨 Design Orientado ao Usuário: Comprometido em criar experiências de usuário intuitivas e visualmente atraentes.<br>🚀 Objetivo: Busco aprimorar minhas habilidades como desenvolvedor frontend, contribuindo para projetos que façam a diferença na vida das pessoas.
 
 
 ## 🌐 Socials:
